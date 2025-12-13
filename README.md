@@ -71,6 +71,24 @@ I enjoy designing:
 
 ---
 
+## 💼 Experience
+
+### 🔹 AI/ML Intern — CodeFlare Labs  
+📍 Remote  
+🗓 **Oct 2025 – Present** (3-Month Internship)
+
+- Building and maintaining **AI-driven automation workflows using n8n**
+- Designing **end-to-end workflows** integrating:
+  - LLM APIs
+  - Webhooks
+  - Databases / Google Sheets
+  - WhatsApp / messaging APIs
+- Working with **Machine Learning & Deep Learning models** for real-world use cases
+- Developing **backend logic and AI agents** using Python and LLM frameworks
+- Gaining hands-on experience in **client-driven requirements and scalable automation systems**
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
