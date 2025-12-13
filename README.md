@@ -12,9 +12,12 @@
 I am an AI-focused developer passionate about **Machine Learning, Deep Learning, and Agentic AI systems**.  
 I primarily work on **backend, automation, and intelligent systems** and prefer building **real-world AI products** over frontend-heavy applications.
 
- ## I enjoy designing:
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1500&pause=200&color=fff&multiline=true&width=700&height=120&lines=🤖+Intelligent+AI+agents;🧠+ML%2FDL+pipelines;🔗+LLM-powered+automation+systems;⚙️+Backend+APIs+%26+scalable+services" />
+## I enjoy designing:
+
+- 🤖 Intelligent AI agents
+- 🧠 ML/DL pipelines
+- 🔗 LLM-powered automation systems
+- ⚙️ Backend APIs & scalable services
 
 ---
 
