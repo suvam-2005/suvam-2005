@@ -120,7 +120,7 @@ I primarily work on **backend, automation, and intelligent systems** and prefer 
   </a>
 </p>
 
-📧 **Email:** professional.suvam@gmail.com
+📧 **Email:** professional.suvamdas@gmail.com
 
 ---
 
