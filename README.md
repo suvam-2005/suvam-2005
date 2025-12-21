@@ -115,7 +115,7 @@ I primarily work on **backend, automation, and intelligent systems** and prefer 
   <a href="https://www.linkedin.com/in/suvam-das-aa1940314" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://discord.gg/suvam5525" target="_blank">
+  <a href="https://discord.com/users/suvam5525" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
