@@ -75,7 +75,6 @@ I primarily work on **backend, automation, and intelligent systems** and prefer 
 ### Automation & Workflow
 - LangChain
 - n8n
-- REST APIs
 - Web Scraping Pipelines
 
 ---
