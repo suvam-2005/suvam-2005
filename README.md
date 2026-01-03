@@ -27,7 +27,7 @@ I primarily work on **backend, automation, and intelligent systems** and prefer 
 
 ### 🧪 Machine Learning & Deep Learning
 
-<img src="https://img.shields.io/badge/upervised & Unsupervised Learning-2563EB?style=for-the-badge&logo=canva&logoColor=white" >
+<img src="https://img.shields.io/badge/Supervised & Unsupervised Learning-2563EB?style=for-the-badge&logo=canva&logoColor=white" >
 <img src="https://img.shields.io/badge/ANN-0284C7?style=for-the-badge&logo=canva&logoColor=white" >
 <img src="https://img.shields.io/badge/CNN-16A34A?style=for-the-badge&logo=cnn&logoColor=black" >
 <img src="https://img.shields.io/badge/RNN-EA580C?style=for-the-badge&logo=rnn&logoColor=white" >
